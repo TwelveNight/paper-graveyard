@@ -3,7 +3,6 @@
 ## 论文信息
 - **标题**: Prompt Optimization via Dual-path Alignment for Text-to-Video Generation
 - **arXiv**: 2504.11739v2
-- **作者**: [作者信息需从原文获取]
 - **关键词**: Text-to-Video, Prompt Optimization, Retrieval-Augmented, LLM Fine-tuning
 
 ---
