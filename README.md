@@ -15,15 +15,15 @@ Welcome to the Paper Graveyard - a brutal weekly paper reading repository where 
 | **Week 2** | VAE & Diffusion Models: Principles and Integration | Tutorial Materials | - | - | ✅ Complete | [VAE基础](week2/VAE_Diffusion/VAE.md) \| [综合汇报](week2/VAE_Diffusion/Diffusion_VAE_综合汇报.md) |
 | **Week 2** | Diffusion Models Tutorial | Tutorial Materials | - | - | ✅ Complete | [扩散模型总结](week2/Diffusion/diffusion_model_summary.md) |
 | **Week 3** | VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control | - | arXiv:2503.05639v3 | 2024.03 | ✅ Complete | [汇报](week3/VideoPainter/VideoPainter论文汇报.md) |
-| **Week 3** | RAPO (Research Paper) | - | arXiv:2504.11739v2 | 2024.04 | 📖 Reading | [PDF](week3/RAPO/2504.11739v2.pdf) |
+| **Week 3** | RAPO: Prompt Optimization via Dual-path Alignment for Text-to-Video Generation | - | arXiv:2504.11739v2 | 2024.04 | ✅ Complete | [汇报](week3/RAPO/RAPO论文汇报.md) \| [PDF](week3/RAPO/2504.11739v2.pdf) |
 
 ## 📊 Statistics
 
-- **Papers Read**: 6 papers + tutorials
+- **Papers Read**: 7 papers + tutorials
 - **Weeks Active**: 3 weeks
-- **Focus Areas**: Video Generation, Diffusion Models, VAE, Multimodal AI
-- **Total Pages Analyzed**: 150+ pages
-- **Presentations Created**: 5 comprehensive reports
+- **Focus Areas**: Video Generation, Diffusion Models, VAE, Multimodal AI, Prompt Optimization
+- **Total Pages Analyzed**: 200+ pages
+- **Presentations Created**: 6 comprehensive reports
 
 ## 🔧 Analysis Framework
 
@@ -48,12 +48,15 @@ Welcome to the Paper Graveyard - a brutal weekly paper reading repository where 
 - **Foundational Models**: VAE, Diffusion Models, Flow Matching
 - **Multimodal AI**: Text-to-Video, Image-to-Video
 - **Training Optimizations**: Training-free improvements, efficient architectures
+- **Prompt Engineering**: Retrieval-augmented optimization, LLM fine-tuning
 
 ### Key Insights
 - Evolution from DDPM to Flow Matching in video generation
 - Importance of 3DVAE for temporal consistency
 - Training-free optimization techniques for quality improvement
 - Plug-and-play control mechanisms for video editing
+- Retrieval-augmented prompt optimization for T2V generation
+- Dual-path optimization strategies with automatic selection
 
 ## 📈 Weekly Schedule
 
@@ -97,8 +100,8 @@ This repository serves as a personal research journey through the landscape of A
 ### 🔗 Quick Navigation
 - [Week 1: HunyuanVideo](week1/HunyuanVideo/) - Large-scale video generation framework
 - [Week 2: Training-free Optimization](week2/) - ByTheWay + VAE/Diffusion fundamentals  
-- [Week 3: Video Editing](week3/) - VideoPainter + RAPO research
+- [Week 3: Video Editing & Prompt Optimization](week3/) - VideoPainter + RAPO research
 
 ---
 
-*Last updated: July 2025 | Papers analyzed: 6+ | Presentations created: 5*
+*Last updated: July 2025 | Papers analyzed: 7+ | Presentations created: 6*
