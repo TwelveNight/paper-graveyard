@@ -16,14 +16,15 @@ Welcome to the Paper Graveyard - a brutal weekly paper reading repository where 
 | **Week 2** | Diffusion Models Tutorial | Tutorial Materials | - | - | ✅ Complete | [扩散模型总结](week2/Diffusion/diffusion_model_summary.md) |
 | **Week 3** | VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control | - | arXiv:2503.05639v3 | 2024.03 | ✅ Complete | [汇报](week3/VideoPainter/VideoPainter论文汇报.md) |
 | **Week 3** | RAPO: Prompt Optimization via Dual-path Alignment for Text-to-Video Generation | - | arXiv:2504.11739v2 | 2024.04 | ✅ Complete | [汇报](week3/RAPO/RAPO论文汇报.md) \| [PDF](week3/RAPO/2504.11739v2.pdf) |
+| **Week 4** | Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis | - | arXiv:2412.20651v2 | 2024.12 | ✅ Complete | [汇报](week4/LD/LD论文汇报.md) \| [PDF](week4/LD/2412.20651v2.pdf) |
 
 ## 📊 Statistics
 
-- **Papers Read**: 7 papers + tutorials
-- **Weeks Active**: 3 weeks
-- **Focus Areas**: Video Generation, Diffusion Models, VAE, Multimodal AI, Prompt Optimization
-- **Total Pages Analyzed**: 200+ pages
-- **Presentations Created**: 6 comprehensive reports
+- **Papers Read**: 8 papers + tutorials
+- **Weeks Active**: 4 weeks
+- **Focus Areas**: Video Generation, Diffusion Models, VAE, Multimodal AI, Prompt Optimization, Medical Image Synthesis
+- **Total Pages Analyzed**: 250+ pages
+- **Presentations Created**: 7 comprehensive reports
 
 ## 🔧 Analysis Framework
 
@@ -49,6 +50,7 @@ Welcome to the Paper Graveyard - a brutal weekly paper reading repository where 
 - **Multimodal AI**: Text-to-Video, Image-to-Video
 - **Training Optimizations**: Training-free improvements, efficient architectures
 - **Prompt Engineering**: Retrieval-augmented optimization, LLM fine-tuning
+- **Medical AI**: Latent Drifting, Counterfactual Image Synthesis, Domain Adaptation
 
 ### Key Insights
 - Evolution from DDPM to Flow Matching in video generation
@@ -57,6 +59,8 @@ Welcome to the Paper Graveyard - a brutal weekly paper reading repository where 
 - Plug-and-play control mechanisms for video editing
 - Retrieval-augmented prompt optimization for T2V generation
 - Dual-path optimization strategies with automatic selection
+- Latent space manipulation for domain adaptation in medical imaging
+- Minimal parameter approaches (scalar drift) for complex semantic control
 
 ## 📈 Weekly Schedule
 
@@ -81,6 +85,8 @@ Welcome to the Paper Graveyard - a brutal weekly paper reading repository where 
 - Real-time Video Generation
 - Edge AI and Model Compression
 - Benchmark Datasets and Evaluation Metrics
+- Medical AI and Healthcare Applications
+- Domain Adaptation and Transfer Learning
 
 ### Repository Evolution
 - [ ] Interactive paper comparison tools
@@ -101,7 +107,8 @@ This repository serves as a personal research journey through the landscape of A
 - [Week 1: HunyuanVideo](week1/HunyuanVideo/) - Large-scale video generation framework
 - [Week 2: Training-free Optimization](week2/) - ByTheWay + VAE/Diffusion fundamentals  
 - [Week 3: Video Editing & Prompt Optimization](week3/) - VideoPainter + RAPO research
+- [Week 4: Medical Image Synthesis](week4/LD/) - Latent Drifting for counterfactual generation
 
 ---
 
-*Last updated: July 2025 | Papers analyzed: 7+ | Presentations created: 6*
+*Last updated: July 2025 | Papers analyzed: 8+ | Presentations created: 7*
